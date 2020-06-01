@@ -1,4 +1,4 @@
-# [JuneLeetCodingChallenge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/)
+# [JuneLeetCodingChallenge](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/)
 [Leetcode Profile](https://leetcode.com/ritikajain/)
 | Problem Name | Difficulty(Relative to me) | Java | Time Complexity | Space Complexity | Data Structure Used | Algorithm Used |
 | --- | --- | --- | --- | --- | --- | --- |
