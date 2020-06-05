@@ -7,4 +7,5 @@
 | [Delete Node in a Linked List](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3348/) | Easy | [Code](https://github.com/RitikaJain8818/JuneLeetCodingChallenge/blob/master/Week%201/Delete%20Node%20in%20a%20Linked%20List) | O(1) | O(1) | LinkedList | NA  |
 | [Two City Scheduling](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3349/) | Easy | [Code](https://github.com/RitikaJain8818/JuneLeetCodingChallenge/blob/master/Week%201/Two%20City%20Scheduling) | O(N) | O(N) | Arrays | NA |
 | [Reverse String](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3350/) | Easy | [Code](https://github.com/RitikaJain8818/JuneLeetCodingChallenge/blob/master/Week%201/Reverse%20String) | O(N) | O(1) | String | NA |
+| [Random Pick with Weight](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3351/) | Hard | [Code](https://github.com/RitikaJain8818/JuneLeetCodingChallenge/blob/master/Week%201/Random%20Pick%20with%20Weight) | O(N+logN) | O(N) | NA | Maths |
 
