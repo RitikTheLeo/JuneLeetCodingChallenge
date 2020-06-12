@@ -13,4 +13,5 @@
 | [Power of Two](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/) | Easy | [Code](https://github.com/RitikaJain8818/JuneLeetCodingChallenge/blob/master/Week%202/Power%20of%20Two) | O(logN) | O(logN) | NA | Maths |
 | [Is Subsequence](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/) | Easy | [Code](https://github.com/RitikaJain8818/JuneLeetCodingChallenge/blob/master/Week%202/Is%20Subsequence) | O(2^N) | O(1) | NA | Recursive |
 | [Search Insert Position](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3356/) | Easy | [Code](https://github.com/RitikaJain8818/JuneLeetCodingChallenge/blob/master/Week%202/Search%20Insert%20Position) | O(logN) | O(1) | NA | Binary Search |
+| [Sort Colors](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3357/) | Easy | [Code](https://github.com/RitikaJain8818/JuneLeetCodingChallenge/blob/master/Week%202/Sort%20Colors) | O(N) | O(1) | NA | Dutch National Flag Algorithm OR 3-way Partitioning |
 
