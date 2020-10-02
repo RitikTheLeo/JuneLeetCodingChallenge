@@ -22,8 +22,10 @@ class Solution {
             return null;
         if(root.val==val)
             return root;
+            //if val is less than root.val
         if(val<root.val){
             return searchBSTUtil(root.left,val);
+            //if val is greater than root.val
         }else
             return searchBSTUtil(root.right,val);
     }
